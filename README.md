@@ -1,7 +1,6 @@
 # meta-codes-bootstrap
 bootstrap
-<<<<<<< new-branch
-i am readme
+
 =======
 
 i am practicing a web application  using  html css and java. it is for food restaurant and i named it " little lemons" 
